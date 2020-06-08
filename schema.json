@@ -1,0 +1,122 @@
+{
+  "basics": {
+    "name": "Andrés Flórez",
+    "label": "Developer",
+    "picture": "",
+    "email": "andresflorez9707@gmail.com",
+    "phone": "+57 3232836464",
+    "website": "http://johnsmith.com",
+    "summary": "I am a developer engaged in all phases of the software development lifecycle which include: gathering and analyzing user/business system requirements, responding to outages and creating application system models. Participate in design meetings and consult with clients to refine, test and debug programs to meet business needs and interact and sometimes direct third party partners in the achievement of business and technology initiatives. I currently hold the position of Artificial Intelligence Analyst in Work.r, a company focused on artificial intelligence based solutions",
+    "location": {
+      "address": "Colombia",
+      "city": "Bogotá D.C",
+      "countryCode": "CO"
+      
+    },
+    "profiles": [
+      
+      {
+        "network": "LinkedIn",
+        "username": "john",
+        "url": "https://www.linkedin.com/in/andres-florez-6114411a3/"
+      },
+      {
+        "network": "Github",
+        "username": "aeflorezm",
+        "url": "https://github.com/aeflorezm"
+      }
+    ]
+  },
+  "work": [
+
+    {
+      "company": "Universidad De Los Andes",
+      "position": "Biomedical Engineer",
+      "website": "http://company.com",
+      "startDate": "2020-01-01",
+      "summary": "Professional in biomedical engineering from Universidad De Los Andes with emphasys in development and image processing."
+    },
+   
+    {
+      "company": "Work.r",
+      "position": "Developer",
+      "website": "https://www.workr.com.co/",
+      "startDate": "2019-01-01",
+      "summary": "Full stack developer at Work.r,a Business Artificial Intelligence platform with easy-to-adopt solutions that drive revenue growth and improve customer experiences."
+    },
+    {
+      "company": "Tomorrow Tech S.A.S",
+      "position": "Gerente",
+      "website": "http://company.com",
+      "startDate": "2018-01-01",
+      "summary": "CEO and co-founder of Tomorrow Tech, a company that specializes in providing solutions based on Artificial Intelligence (AI). Tomorrow's solutions today"
+    }
+   
+  ],
+  "education": [
+    {
+      "institution": "Universidad De Los Andes",
+      "area": "Biomedical Engineering",
+      "studyType": "Bachelor",
+      "startDate": "2016-01-01",
+      "endDate": "2020-01-01",
+      "gpa": "3.8",
+      "courses": [
+        "Medical image processing"
+      ]
+    }
+    
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": 5,
+      "keywords": [
+        "HTML & CSS3",
+        "Javascript",
+        "Vue",
+        "React-React native",
+        "AWS",
+        "Python"
+      ]
+    },
+
+    {
+      "name": "Graphics/Media",
+      "level": 2,
+      "keywords": [
+        "Photoshop",
+        "Illustrator",
+        "After Effects"
+      ]
+    }
+    
+   
+  ],
+  "interests": [
+    {
+      "name": "Web Development",
+      "keywords": [
+        "As a web developer  I have held the following responsibilities: build  websites from concept all the way to completion from the bottom up, write well designed, testable, efficient code by using best software development practices, create website layout/user interface by using standard HTML/CSS practices, integrate data from various back-end services and databases, gather and refine specifications and requirements based on technical needs and create and maintain software documentation"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "keywords": [
+        "As a mobile developer I have acquired an skillset in several areas of knowledge, besides the ones in web development. The  highlights of  this are the following:  understand users’ mobile needs (UX), perform detailed quality assurance tests and  monitor the final product in order to identify feedback for potential patches or upgrades needed"
+      ]
+    },
+    {
+      "name": "Computer Vision",
+      "keywords": [
+        "As a Biomedical Engineer I have a broad experience with linear algebra math libraries such OpenCv, TensorFlow and other similar computer vision libraries. My  skills in this area are:  data base management, analytical and critical-thinking,clear reasoning, logical thinking, complex problem solving in an efficient way, hability to analyze results and making accurate conclusions of them."
+      ]
+    },
+    {
+      "name": "Cloud computing",
+      "keywords": [
+        " Experience designing work flows and processes around mixed skill sets.Industry skills and expertise in client’s businesses.Strong experience in building cloud apps  on Amazon Web Services and asynchronous tasking/queuing technologies "
+      ]
+    }
+  ]
+}
